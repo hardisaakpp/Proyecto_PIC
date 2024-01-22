@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Semana1.CalculadoraMatrices">
+  <Class Name="Proyecto_PIC.CalculadoraMatrices">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CalculadoraMatrices.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Semana1.TraspuestaMatriz">
+  <Class Name="Proyecto_PIC.TraspuestaMatriz">
     <Position X="4.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
       <FileName>TraspuestaMatriz.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Semana1.DeterminanteMatriz">
+  <Class Name="Proyecto_PIC.DeterminanteMatriz">
     <Position X="6.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAA=</HashCode>
       <FileName>DeterminanteMatriz.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Semana1.InversaMatriz">
+  <Class Name="Proyecto_PIC.InversaMatriz">
     <Position X="8.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -31,7 +31,7 @@
   <Class Name="Proyecto_PIC.Matriz">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>CAAAAAAEAAAABAAAAAACAJAAAAAAAACAAAAAgAgAAAA=</HashCode>
       <FileName>Matriz.cs</FileName>
     </TypeIdentifier>
   </Class>
